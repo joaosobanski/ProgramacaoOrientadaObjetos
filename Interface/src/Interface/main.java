@@ -7,7 +7,11 @@ public class main {
 		ContaCorrente cc = new ContaCorrente();
 		cc.depositar(1200.20);
 		cc.sacar(300);
+		
+		
 
+		cc.depositar(100200.20);
+		
 		ContaPoupanca cp = new ContaPoupanca();
 		cp.depositar(500.50);
 		cp.sacar(25);
