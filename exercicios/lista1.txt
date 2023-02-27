@@ -1,0 +1,20 @@
+**Exercícios de Programação Usando if, else, switch, for e Funções**
+1. Gere uma lista de números inteiros aleatórios e use a instrução if para imprimir a mensagem ‘número par’, se o número da lista for par, ou ‘número ímpar’, caso contrário.
+2. Modifique o programa anterior para usar a instrução switch-case ao invés de if.
+3. Escreva um programa para fazer a soma dos números inteiros entre 0 e 10 usando for.
+4. Escreva um programa para imprimir os primeiros 25 números primos usando for.
+5. Escreva uma função para encontrar o maior fator comum entre dois números inteiros.
+6. Crie um programa que filtre uma lista de strings dependendo do comprimento de cada string usando as funções filter e lambda.
+7. Crie um programa que peça um número inteiro e some todos os números inteiros anteriores a esse número usando while.
+
+1. Crie um programa que simula um caixa eletrônico onde o usuário informa um determinado valor e a aplicação vai informar quais notas ele irá receber e quantas unidades de cada. Por exemplo: para sacar 86 reais o caixa eletrônico iria entregar : 
+    
+    nota de 50 Reais: qtd 1
+    
+    nota de 20 Reais: qtd 1
+    
+    nota de 10 Reais: qtd 1
+    
+    nota de 5 Reais: qtd 1
+    
+    nota de 1 Real: qtd 1

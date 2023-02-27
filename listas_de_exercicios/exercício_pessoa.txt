@@ -1,0 +1,7 @@
+
+exercício 1:
+Crie um aplicativo que possua a abstração de uma pessoa.
+
+exercício 2:
+    Crie um algoritmo que instancia uma pessoa e adiciona ela em um dos Arrays (Bebes, Crianças, Adolescentes, Adultos, idosos),
+    sendo que Bebes são de 0 a 3 Crianças são de 3 até 10 anos, Adolescentes 10 á 20, adultos acima de 20 até 65 e idosos acima de 65
