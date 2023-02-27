@@ -1,6 +1,6 @@
 
 exercício 1:
-Crie um aplicativo que possua a abstração de uma pessoa.
+Crie um aplicativo que possua a abstração da classe de uma pessoa.
 
 exercício 2:
     Crie um algoritmo que instancia uma pessoa e adiciona ela em um dos Arrays (Bebes, Crianças, Adolescentes, Adultos, idosos),
