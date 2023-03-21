@@ -1,0 +1,55 @@
+Lista de exercício 01 para entregar na sexta-feira dia 10
+
+Lembre que temos algumas formas de utilizar listas no Java
+ArrayList<String> lista = new ArrayList<>();
+String[] lista2 = new String[10];
+
+
+exercício 1 (0,1):
+	Crie um aplicativo que possua a abstração da classe de uma pessoa.
+	public class Pessoa{
+	... atributos 
+	... metodos de acesso (encapsulamento)
+	... construtor
+	}
+
+exercício 2 (0,2):
+    Crie um algoritmo faça a instância de uma classe pessoa e utilize uma funcao para adicionar a pessoa na lista subsequente (Bebês, Crianças, Adolescentes, Adultos, idosos),
+    sendo que Bebãs são de 0 a 3 Crianças são de 3 até 10 anos, Adolescentes 10 á 20, adultos acima de 20 até 65 e idosos acima de 65.
+		
+
+exercício 3 (0,1):
+	Crie a classe chamada Fabricante e adicione todos os atributos referente a uma fabricante de veículos.
+	public class Fabricante{
+	... atributos 
+	... metodos de acesso (encapsulamento)
+	... construtor
+	}
+
+exercício 4 (0,2): Crie uma classe chamada Veiculo e adicione todos os atributos referente a um veículo, 
+lembrando que ele possui um fabricante.
+
+	Semelhante ao exemplo do endereço da pessoa que dei em sala de aula. 
+	https://github.com/joaosobanski/ProgramacaoOrientadaObjetos/tree/main/pessoa_imovel/src
+
+	public class Veiculo{
+	... atributos 
+	... metodos de acesso (encapsulamento)
+	... construtor
+	}
+
+exercício 5 (0,2): 
+	Crie uma classe chamada Garagem e adicione todos os atributos referente uma garagem de veículos 
+
+	Semelhante ao exemplo do endereço da pessoa que dei em sala de aula. 
+	https://github.com/joaosobanski/ProgramacaoOrientadaObjetos/tree/main/pessoa_imovel/src
+
+	a) número de vagas ocupadas, 
+	b) número de vagas disponíveis,
+	c) função que torne obrigatorio informar uma vaga e retorne a classe veículo que está na vaga informada,
+     caso contrário informar que a vaga está disponível.
+	d) crie uma função que traga todos os veículos na garagem informando também a fabricante dele.
+	
+exercício 6 (0,2): Torne obrigatório informar a pessoa proprietária de cada veículo e
+ adicione essa informação também no retorno da função do exercício 5-d onde traz os dados referente aos veículos.
+	

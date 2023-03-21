@@ -1,0 +1,16 @@
+
+Trabalho simulação de um banco com contas e valores.
+
+
+1: crie a classe pessoa com os atributos e funções de acesso e construtores.
+2: crie uma classe chamada conta está classe deve possuir um proprietário e saldo da conta
+para trabalhar com o saldo será necessário funções para depositar e sacar os valores.
+3: elabore a classe banco será necessário criar uma lista de contas e um metodo para criar uma conta, 
+utilizando o número sequencial da lista (numero sequencial pode ser o tamanho da lista + 1).
+
+crie uma função para somar todos os saldos das contas do banco.
+
+elabore a função de transferencia de valores entre contas,
+neste metodo deverá informar o numero da conta que irá transferir e o numero que irá receber
+
+
