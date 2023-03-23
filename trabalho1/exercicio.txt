@@ -8,9 +8,15 @@ para trabalhar com o saldo será necessário funções para depositar e sacar os
 3: elabore a classe banco será necessário criar uma lista de contas e um metodo para criar uma conta, 
 utilizando o número sequencial da lista (numero sequencial pode ser o tamanho da lista + 1).
 
-crie uma função para somar todos os saldos das contas do banco.
+4: crie uma função para somar todos os saldos das contas do banco.
 
-elabore a função de transferencia de valores entre contas,
+5: elabore a função de transferencia de valores entre contas,
 neste metodo deverá informar o numero da conta que irá transferir e o numero que irá receber
+
+6: elabore uma lista de string em cada conta,
+nessa lista deverá armazenar as movimentações referente a conta, como se um extrato.
+ex: depositou 100 reais.
+    transferiu 100 reais para a conta 20
+    
 
 
