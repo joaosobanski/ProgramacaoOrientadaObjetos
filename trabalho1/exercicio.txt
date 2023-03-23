@@ -1,6 +1,8 @@
 
 Trabalho simulação de um banco com contas e valores.
 
+entrega até dia 31/03
+
 
 1: crie a classe pessoa com os atributos e funções de acesso e construtores.
 2: crie uma classe chamada conta está classe deve possuir um proprietário e saldo da conta
@@ -17,6 +19,6 @@ neste metodo deverá informar o numero da conta que irá transferir e o numero q
 nessa lista deverá armazenar as movimentações referente a conta, como se um extrato.
 ex: depositou 100 reais.
     transferiu 100 reais para a conta 20
-    
+
 
 
