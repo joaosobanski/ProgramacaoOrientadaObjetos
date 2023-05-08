@@ -2,3 +2,5 @@
 CRIAR UMA CLASSE PESSOA
 
 E CRIAR OUTRAS CLASSES FUNCIONARIO, FORNECEDOR E CLIENTE TODAS DEVEM HERDAR PESSOA. 
+
+no app.java é necessário instanciar as classes com seus valores e exibilos após instanciados.
