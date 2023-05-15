@@ -1,0 +1,15 @@
+
+crie uma listagem de Animal separando por 3 tipos de categorias.
+
+1: o algoritmo deve adicionar um animal novo na listagem.
+2: listar todos os animais.
+3: listar todos animas da mesma categoria.
+
+
+Pode fazer com herança ou ENUM
+
+exemplo do enum esta na pasta ./Enum
+
+
+
+
