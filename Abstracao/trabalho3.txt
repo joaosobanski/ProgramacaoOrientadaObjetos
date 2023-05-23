@@ -1,0 +1,27 @@
+Lista de exercício 03 para entregar na quinta feira dia 02 de março
+
+Exercício similar ao da garagem realizado no semestre passado.
+
+    deve possuir as classes Pessoa Veiculo e Garagem.
+
+    porém deverá ser aplicado as estruturas que foi  apresentado durante as aulas.
+    Herança, Enum, Lista genérica com Object.
+
+    a garagem deverá aceitar todo veiculo terrestre. 
+    Sendo uma classe genérica Mae chamada Veiculo onde todos as demais classes deverão consumir ela por herança.
+    Cada veículo deverá ter caracteristicas unicas, por exemplo: 
+    Caminhão suporta um reboque. 
+    Carro pode ter um reboque.  
+    Moto também pode ter.
+
+    Moto tem 2 acentos.
+    Carro 5.
+
+    A classe garagem deverá gerencias uma lista de veículos onde que a posição da lista representa a vaga que o mesmo se encontra.
+
+    deverá possuir funções para listar agrupando pelo tipo de veiculo
+
+    Todo veiculo deve ter um dono.
+
+    Pode usar enum no tipo de veículo e na cor.
+    
