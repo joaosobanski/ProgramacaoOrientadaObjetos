@@ -1,4 +1,4 @@
-Lista de exercício 03 para entregar na quinta feira dia 02 de março
+Lista de Trabalho 03 para entregar na quinta feira dia 02 de março
 
 Exercício similar ao da garagem realizado no semestre passado.
 
@@ -24,4 +24,3 @@ Exercício similar ao da garagem realizado no semestre passado.
     Todo veiculo deve ter um dono.
 
     Pode usar enum no tipo de veículo e na cor.
-    
