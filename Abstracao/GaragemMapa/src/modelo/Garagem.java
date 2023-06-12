@@ -54,7 +54,7 @@ public class Garagem {
     public ArrayList<Veiculo> filtro(String filtro) {
         ArrayList<Veiculo> filtrados = new ArrayList<>();
         for (int i = 0; i < max; i++) {
-            if (vaga.get(i).getModelo().contains(filtro)) {
+            if (vaga.get(i).getModelo().toUpperCase().contains(filtro.toUpperCase())) {
                 filtrados.add(vaga.get(i));
             }
         }
