@@ -1,0 +1,31 @@
+
+
+exercicio 4: valendo 4.0 
+em duplas 
+data limite para entreda é 23/06/2023
+
+Deverá criar uma coleção/mapa, para agrupar vários veículos por marca.
+
+sendo K = Marca (Enum ou Objeto) e V = Veiculos (ArrayList<Veiculo>).
+
+Marca pode ser um Enum [volkswagen, ford, gm, renault, ...]
+ou objeto Marca
+
+deverá existir um filtro por marca listando todos os veículos que conter os caracteres digitados, 
+por exemplo na volkswager ao filtrar a palavra `gol`, deverá trazer os objetos Veiculos que possui
+a palavra correspondente a palavra `gol`, 
+ou seja [ Veiculo [nome='Gol GTI 2000'], Veiculo [nome='Gol GTS 1800'], Veiculo [nome='GOLF SAPÃO'] ... ]
+
+fazer um filtro, para filtrar todos os veiculos do mapeamento em todas as marcas.
+
+Exemplo de filtro.
+
+public ArrayList<Veiculo> filtro(String filtro) {
+    ArrayList<Veiculo> filtrados = new ArrayList<>();
+    for (int i = 0; i < max; i++) {
+        if (vaga.get(i).getModelo().contains(filtro)) {
+            filtrados.add(vaga.get(i));
+        }
+    }
+    return filtrados;
+}

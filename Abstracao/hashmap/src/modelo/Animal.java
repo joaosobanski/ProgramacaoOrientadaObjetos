@@ -1,19 +1,13 @@
 package modelo;
 
-import java.util.ArrayList;
-
-import enumCategoria.Categoria;
-
 public class Animal {
     String tipo;
     String nome;
     String origem;
-    Categoria categoria;
 
-    public Animal(String nome, String origem, Categoria categoria, String tipo) {
+    public Animal(String nome, String origem, String tipo) {
         this.nome = nome;
         this.origem = origem;
-        this.categoria = categoria;
         this.tipo = tipo;
     }
 
@@ -41,17 +35,9 @@ public class Animal {
         this.origem = origem;
     }
 
-    public Categoria getCategoria() {
-        return categoria;
-    }
-
-    public void setCategoria(Categoria categoria) {
-        this.categoria = categoria;
-    }
-
     @Override
     public String toString() {
-        return "Animal [nome=" + nome + ", origem=" + origem + ", Categoria=" + categoria + ", tipo=" + tipo + "]";
+        return "Animal [tipo=" + tipo + ", nome=" + nome + ", origem=" + origem + "]";
     }
 
 }
