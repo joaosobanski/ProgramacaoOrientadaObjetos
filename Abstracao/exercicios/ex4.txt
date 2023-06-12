@@ -31,3 +31,6 @@ Exemplo de filtro.
         }
         return filtrados;
     }
+
+
+favor cadastrar pelo menos 3 marcas com mais de 4 veiculos cada.
